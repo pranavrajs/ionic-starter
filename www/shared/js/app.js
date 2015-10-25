@@ -6,7 +6,11 @@ angular.module('ionic-starter', [
         'ionic-starter.home',
         'ionic-starter.action-sheet',
         'ionic-starter.app-availability',
-        'ionic-starter.app-rate'
+        'ionic-starter.app-rate',
+        'ionic-starter.app-version',
+        'ionic-starter.badge',
+        'ionic-starter.barcode-scanner',
+        'ionic-starter.contacts'
     ])
     .run(['$ionicPlatform', function ($ionicPlatform) {
         $ionicPlatform.ready(function () {

@@ -1,0 +1,17 @@
+<ion-view view-title="Barcode Scanner">
+    <ion-content class="module-action">
+        <div class="item item-input-inset">
+            <label class="item-input-wrapper">
+                <input type="text" ng-model="contactName" placeholder="Contact Name">
+            </label>
+            <button class="button button-small" ng-click="searchContacts(contactName)">
+                Search
+            </button>
+        </div>
+        <ion-list>
+            <ion-item ng-repeat="item in pluginList" ng-href="{{item.link}}">
+                {{ item.title }}
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

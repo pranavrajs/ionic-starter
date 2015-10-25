@@ -30,7 +30,7 @@ angular.module('ionic-starter.home', [])
             "keywords": "rating stars",
             "short-title": "AppRate"
         }, {
-            "link": "#/app/home",
+            "link": "#/app/app-version",
             "title": "App Version",
             "keywords": "version OS ",
             "short-title": "AppVersion"
@@ -40,12 +40,12 @@ angular.module('ionic-starter.home', [])
             "keywords": "bg location",
             "short-title": "BackgroundGeolocation"
         }, {
-            "link": "#/app/home",
+            "link": "#/app/badge",
             "title": "Badge",
             "keywords": "badge",
             "short-title": "Badge"
         }, {
-            "link": "#/app/home",
+            "link": "#/app/barcode-scanner",
             "title": "Barcode Scanner",
             "keywords": "qr code barcode",
             "short-title": "BarcodeScanner"

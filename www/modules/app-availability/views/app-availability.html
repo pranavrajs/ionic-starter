@@ -1,5 +1,5 @@
 <ion-view view-title="App Availability">
-    <ion-content>
+    <ion-content class="module-action">
         <button class="button button-block button-calm" ng-click="isAppAvailable('twitter')">
             Twitter
         </button>
@@ -9,6 +9,6 @@
         <button class="button button-block button-balanced" ng-click="isAppAvailable('whatsapp')">
             Whatsapp
         </button>
-        <p ng-bind="message"></p>
+        <p ng-bind="message" class="module-result"></p>
     </ion-content>
 </ion-view>

@@ -13,7 +13,6 @@ angular.module('ionic-starter.app-rate', [])
             });
     }])
     .controller('AppRateCtrl', ['$scope', function ($scope) {
-
         $scope.rateApp = function () {
             if (ionic.Platform.isIOS()) {
                 //you need to set your own ios app id

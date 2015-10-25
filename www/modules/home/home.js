@@ -20,267 +20,267 @@ angular.module('ionic-starter.home', [])
             "keywords": "popup",
             "short-title": "ActionSheet"
         }, {
-            "link": "/docs/plugins/appAvailability/",
+            "link": "#/app/app-availability",
             "title": "App Availability",
             "keywords": "available",
             "short-title": "AppAvailability"
         }, {
-            "link": "/docs/plugins/appRate/",
+            "link": "#/app/app-rate",
             "title": "App Rate",
             "keywords": "rating stars",
             "short-title": "AppRate"
         }, {
-            "link": "/docs/plugins/appVersion/",
+            "link": "#/app/home",
             "title": "App Version",
             "keywords": "version OS ",
             "short-title": "AppVersion"
         }, {
-            "link": "/docs/plugins/backgroundGeolocation/",
+            "link": "#/app/home",
             "title": "Background Geolocation",
             "keywords": "bg location",
             "short-title": "BackgroundGeolocation"
         }, {
-            "link": "/docs/plugins/badge/",
+            "link": "#/app/home",
             "title": "Badge",
             "keywords": "badge",
             "short-title": "Badge"
         }, {
-            "link": "/docs/plugins/barcodeScanner/",
+            "link": "#/app/home",
             "title": "Barcode Scanner",
             "keywords": "qr code barcode",
             "short-title": "BarcodeScanner"
         }, {
-            "link": "/docs/plugins/batteryStatus/",
+            "link": "#/app/home",
             "title": "Battery Status",
             "keywords": "battery life status",
             "short-title": "BatteryStatus"
         }, {
-            "link": "/docs/plugins/calendar/",
+            "link": "#/app/home",
             "title": "Calendar",
             "keywords": "date time reminder",
             "short-title": "Calendar"
         }, {
-            "link": "/docs/plugins/camera/",
+            "link": "#/app/home",
             "title": "Camera",
             "keywords": "picture image",
             "short-title": "Camera"
         }, {
-            "link": "/docs/plugins/capture/",
+            "link": "#/app/home",
             "title": "Capture",
             "keywords": "record sound music video image",
             "short-title": "Capture"
         }, {
-            "link": "/docs/plugins/cardIO/",
+            "link": "#/app/home",
             "title": "CardIO",
             "keywords": "cardio card-io billing card number cardscan",
             "short-title": "CardIO"
         }, {
-            "link": "/docs/plugins/clipboard/",
+            "link": "#/app/home",
             "title": "Clipboard",
             "keywords": "copy paste",
             "short-title": "Clipboard"
         }, {
-            "link": "/docs/plugins/contacts/",
+            "link": "#/app/home",
             "title": "Contacts",
             "keywords": "contact user ",
             "short-title": "Contacts"
         }, {
-            "link": "/docs/plugins/datePicker/",
+            "link": "#/app/home",
             "title": "Date Picker",
             "keywords": "date time",
             "short-title": "DatePicker"
         }, {
-            "link": "/docs/plugins/device/",
+            "link": "#/app/home",
             "title": "Device",
             "keywords": "iPhone Android iPad type",
             "short-title": "Device"
         }, {
-            "link": "/docs/plugins/deviceMotion/",
+            "link": "#/app/home",
             "title": "Device Motion",
             "keywords": "accelerometer acceleration",
             "short-title": "DeviceMotion"
         }, {
-            "link": "/docs/plugins/deviceOrientation/",
+            "link": "#/app/home",
             "title": "Device Orientation",
             "keywords": "compass orientation",
             "short-title": "DeviceOrientation"
         }, {
-            "link": "/docs/plugins/dialogs/",
+            "link": "#/app/home",
             "title": "Dialogs",
             "keywords": "alert confirm prompt beep",
             "short-title": "Dialogs"
         }, {
-            "link": "/docs/plugins/emailComposer/",
+            "link": "#/app/home",
             "title": "Email Composer",
             "keywords": "email message mail",
             "short-title": "EmailComposer"
         }, {
-            "link": "/docs/plugins/facebook/",
+            "link": "#/app/home",
             "title": "Facebook",
             "keywords": "facebook login oauth",
             "short-title": "Facebook"
         }, {
-            "link": "/docs/plugins/file/",
+            "link": "#/app/home",
             "title": "File",
             "keywords": "file absolute path location",
             "short-title": "File"
         }, {
-            "link": "/docs/plugins/fileOpener2/",
+            "link": "#/app/home",
             "title": "FileOpener2",
             "keywords": "",
             "short-title": "FileOpener2"
         }, {
-            "link": "/docs/plugins/fileTransfer/",
+            "link": "#/app/home",
             "title": "File Transfer",
             "keywords": "file transfer upload download ",
             "short-title": "FileTransfer"
         }, {
-            "link": "/docs/plugins/flashlight/",
+            "link": "#/app/home",
             "title": "Flashlight",
             "keywords": "light flash",
             "short-title": "Flashlight"
         }, {
-            "link": "/docs/plugins/geolocation/",
+            "link": "#/app/home",
             "title": "Geolocation",
             "keywords": "location",
             "short-title": "Geolocation"
         }, {
-            "link": "/docs/plugins/globalization/",
+            "link": "#/app/home",
             "title": "Globalization",
             "keywords": "language preferences",
             "short-title": "Globalization"
         }, {
-            "link": "/docs/plugins/googleAnalytics/",
+            "link": "#/app/home",
             "title": "Google Analytics",
             "keywords": "GA",
             "short-title": "GoogleAnalytics"
         }, {
-            "link": "/docs/plugins/healthkit/",
+            "link": "#/app/home",
             "title": "HealthKit",
             "keywords": "health kit fitness",
             "short-title": "HealthKit"
         }, {
-            "link": "/docs/plugins/beacon/",
+            "link": "#/app/home",
             "title": "iBeacon",
             "keywords": "iBeacon beacon bluetooth low energy",
             "short-title": "iBeacon"
         }, {
-            "link": "/docs/plugins/imagePicker/",
+            "link": "#/app/home",
             "title": "Image Picker",
             "keywords": "picture image cameraroll",
             "short-title": "ImagePicker"
         }, {
-            "link": "/docs/plugins/inAppBrowser/",
+            "link": "#/app/home",
             "title": "In App Browser",
             "keywords": "",
             "short-title": "InAppBrowser"
         }, {
-            "link": "/docs/plugins/instagram/",
+            "link": "#/app/home",
             "title": "Instagram",
             "keywords": "instagram image share",
             "short-title": "Instagram"
         }, {
-            "link": "/docs/plugins/keyboard/",
+            "link": "#/app/home",
             "title": "Keyboard",
             "keywords": "",
             "short-title": "Keyboard"
         }, {
-            "link": "/docs/plugins/keychain/",
+            "link": "#/app/home",
             "title": "Keychain",
             "keywords": "",
             "short-title": "Keychain"
         }, {
-            "link": "/docs/plugins/launchNavigator/",
+            "link": "#/app/home",
             "title": "Launch Navigator",
             "keywords": "launchNavigator navigator gps",
             "short-title": "LaunchNavigator"
         }, {
-            "link": "/docs/plugins/localNotification/",
+            "link": "#/app/home",
             "title": "Local Notification",
             "keywords": "",
             "short-title": "LocalNotification"
         }, {
-            "link": "/docs/plugins/media/",
+            "link": "#/app/home",
             "title": "Media",
             "keywords": "",
             "short-title": "Media"
         }, {
-            "link": "/docs/plugins/nativeAudio/",
+            "link": "#/app/home",
             "title": "Native Audio",
             "keywords": "",
             "short-title": "NativeAudio"
         }, {
-            "link": "/docs/plugins/network/",
+            "link": "#/app/home",
             "title": "Network",
             "keywords": "wifi 3G 4G LTE",
             "short-title": "Network"
         }, {
-            "link": "/docs/plugins/oauth/",
+            "link": "#/app/home",
             "title": "OAuth",
             "keywords": "authentication 0auth",
             "short-title": "OAuth"
         }, {
-            "link": "/docs/plugins/pinDialog/",
+            "link": "#/app/home",
             "title": "Pin Dialog",
             "keywords": "prompt",
             "short-title": "PinDialog"
         }, {
-            "link": "/docs/plugins/preferences/",
+            "link": "#/app/home",
             "title": "Preferences",
             "keywords": "",
             "short-title": "Preferences"
         }, {
-            "link": "/docs/plugins/progressIndicator/",
+            "link": "#/app/home",
             "title": "Progress Indicator",
             "keywords": "activity",
             "short-title": "ProgressIndicator"
         }, {
-            "link": "/docs/plugins/pushNotifications/",
+            "link": "#/app/home",
             "title": "Push Notifications",
             "keywords": "APN GCM",
             "short-title": "PushNotifications"
         }, {
-            "link": "/docs/plugins/socialSharing/",
+            "link": "#/app/home",
             "title": "Social Sharing",
             "keywords": "email twitter facebook SMS",
             "short-title": "SocialSharing"
         }, {
-            "link": "/docs/plugins/spinnerDialog/",
+            "link": "#/app/home",
             "title": "Spinner Dialog",
             "keywords": "",
             "short-title": "SpinnerDialog"
         }, {
-            "link": "/docs/plugins/splashscreen/",
+            "link": "#/app/home",
             "title": "Splashscreen",
             "keywords": "",
             "short-title": "Splashscreen"
         }, {
-            "link": "/docs/plugins/sqlite/",
+            "link": "#/app/home",
             "title": "SQLite",
             "keywords": "db database storage",
             "short-title": "SQLite"
         }, {
-            "link": "/docs/plugins/statusbar/",
+            "link": "#/app/home",
             "title": "StatusBar",
             "keywords": "",
             "short-title": "StatusBar"
         }, {
-            "link": "/docs/plugins/toast/",
+            "link": "#/app/home",
             "title": "Toast",
             "keywords": "notification notify",
             "short-title": "Toast"
         }, {
-            "link": "/docs/plugins/touchID/",
+            "link": "#/app/home",
             "title": "TouchID",
             "keywords": "auth authentication",
             "short-title": "TouchID"
         }, {
-            "link": "/docs/plugins/vibration/",
+            "link": "#/app/home",
             "title": "Vibration",
             "keywords": "beep",
             "short-title": "Vibration"
         }, {
-            "link": "/docs/plugins/zip/",
+            "link": "#/app/home",
             "title": "ZIP",
             "keywords": "file compress",
             "short-title": "ZIP"

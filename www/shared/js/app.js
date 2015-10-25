@@ -4,7 +4,9 @@ angular.module('ionic-starter', [
         'ionic',
         'ngCordova',
         'ionic-starter.home',
-        'ionic-starter.action-sheet'
+        'ionic-starter.action-sheet',
+        'ionic-starter.app-availability',
+        'ionic-starter.app-rate'
     ])
     .run(['$ionicPlatform', function ($ionicPlatform) {
         $ionicPlatform.ready(function () {
@@ -20,11 +22,13 @@ angular.module('ionic-starter', [
             }
         });
     }])
-    .config(['$stateProvider', '$urlRouterProvider', function ($stateProvider, $urlRouterProvider) {
+    .config(['$stateProvider', '$urlRouterProvider', '$cordovaAppRateProvider', function ($stateProvider, $urlRouterProvider, $cordovaAppRateProvider) {
+        // Abstract State Init
         $stateProvider
             .state('app', {
                 url: '/app',
                 abstract: true,
                 templateUrl: 'shared/views/sidemenu/menu.html'
             });
+
     }]);
